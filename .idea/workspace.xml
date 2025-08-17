@@ -10,6 +10,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/lapo1998/Segundo-Parcial-de-poo.py.git",
+    "accountId": "2a736047-9d7d-4579-b16b-c1eb7519776d"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -73,6 +79,7 @@
       <workItem from="1739406830052" duration="33000" />
       <workItem from="1739406955482" duration="78000" />
       <workItem from="1755441010713" duration="77000" />
+      <workItem from="1755441112074" duration="310000" />
     </task>
     <servers />
   </component>
