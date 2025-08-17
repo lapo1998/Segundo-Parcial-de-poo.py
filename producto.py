@@ -1,4 +1,3 @@
-
 class Producto:
     """
     Clase que representa un producto en el sistema de inventario.

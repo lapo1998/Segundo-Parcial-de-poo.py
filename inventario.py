@@ -1,5 +1,3 @@
-# inventario.py
-
 from producto import Producto
 
 class Inventario:
